@@ -1,12 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://github.com/Rivens7/Livelist/blob/main/CCTV.m3u
-https://github.com/Rivens7/Livelist/blob/main/IPTV.m3u
-https://github.com/Rivens7/Livelist/blob/main/CNTV.m3u
-https://github.com/Rivens7/Livelist/blob/main/EPG.xml
-https://github.com/skddyj/iptv/blob/main/IPTV.m3u
-https://github.com/skddyj/iptv/blob/main/EPG.xml
-https://github.com/zwc456baby/iptv_alive/blob/master/live.m3u
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CCTV.m3u
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/CNTV.m3u
+https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/EPG.xml
+https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/skddyj/iptv/refs/heads/main/EPG.xml
+https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+https://raw.githubusercontent.com/onlylove2023/iptv/refs/heads/main/CCTV.m3u
+https://raw.githubusercontent.com/onlylove2023/iptv/refs/heads/main/CNTV.m3u
+https://raw.githubusercontent.com/onlylove2023/iptv/refs/heads/main/IPTV.m3u
+https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
